@@ -63,6 +63,10 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
        12.5mv                      9.4mA 
        15mv                        10.1mA
 
+![Uploading image.png…]()
+
+       
+
 ## 📈 MODEL GRAPH
 ![Uploading image.png…]()
 
